@@ -71,7 +71,7 @@ Along the way I've made build pipelines noticeably faster, cut cloud spend close
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=bavyasakthivel-21&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=4FD1C5&icon_color=4FD1C5&text_color=c9d1d9" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=bavyasakthivel-21&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=4FD1C5&icon_color=4FD1C5&text_color=c9d1d9" />
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bavyasakthivel-21&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=4FD1C5&text_color=c9d1d9" />
 
 <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=bavyasakthivel-21&bg_color=0D1117&color=4FD1C5&line=4FD1C5&point=ffffff&area=true&hide_border=true" />
